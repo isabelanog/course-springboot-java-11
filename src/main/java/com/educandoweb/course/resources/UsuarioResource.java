@@ -9,7 +9,7 @@ import com.educandoweb.course.entities.Usuario;
 
 @RestController //recurso web que eh implementado por um controlador REST
 @RequestMapping(value = "/users") //nome do recurso
-public class UserResource {
+public class UsuarioResource {
 	
 	// recurso para testar se a aplicação web tá funcionando.
 	//recurso web correspondente a entidade User.
